@@ -1,0 +1,11 @@
+README.md
+setup.py
+imgvar/__init__.py
+imgvar/imgvar_errors.py
+imgvar/imgvar_keywords.py
+imgvar/main.py
+imgvar.egg-info/PKG-INFO
+imgvar.egg-info/SOURCES.txt
+imgvar.egg-info/dependency_links.txt
+imgvar.egg-info/requires.txt
+imgvar.egg-info/top_level.txt
